@@ -3,7 +3,7 @@
 <h2> Cyber Security | Programs  </h2>
 
 <h3> Programming practice </h3>
-[Movie Night App](https://github.com/CalebCov/MovieNightApp)
+- [Movie Night App](https://github.com/CalebCov/MovieNightApp)
 
 <h2> Connect with me </h2>
 
