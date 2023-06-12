@@ -6,7 +6,7 @@
 <a href="https://github.com/CalebCov/MovieNightApp" target="_blank" class="link">Movie Night App</a>
 
 <h3> Cyber Projects </h3>
-<a href="https://github.com/CalebCov/KeyLogger" target="_blank" class="link">Keylogger in Python</a>
+<a href="https://github.com/CalebCov/KeyLogger.git" target="_blank" class="link">Keylogger in Python</a>
 
 <h2> Connect with me </h2>
 
