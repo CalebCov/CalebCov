@@ -5,6 +5,8 @@
 <h3> Programming practice </h3>
 <a href="https://github.com/CalebCov/MovieNightApp" target="_blank" class="link">Movie Night App</a>
 
+<a href="https://github.com/CalebCov/LibraryApp" target="_blank" class="link">Library App</a>
+
 <h3> Cyber Projects </h3>
 <a href="https://github.com/CalebCov/KeyLogger.git" target="_blank" class="link">Keylogger in Python</a>
 
