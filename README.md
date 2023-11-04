@@ -2,7 +2,7 @@
 
 <h2>Header</h2>
 
-<h3> Programming practice </h3>
+<h3></h3>
 <a href="" target="_blank" class="link">#</a>
 
 <a href="" target="_blank" class="link">#</a>
