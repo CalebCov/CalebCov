@@ -2,8 +2,8 @@
 
 <h2>Header</h2>
 
-<h3></h3>
-<a href="" target="_blank" class="link">#</a>
+<h3>Book Store App</h3>
+<a href="https://github.com/CalebCov/BookStoreMERN" target="_blank" class="link">Book Store</a>
 
 <a href="" target="_blank" class="link">#</a>
 
