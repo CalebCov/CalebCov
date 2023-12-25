@@ -7,8 +7,8 @@
 
 <a href="" target="_blank" class="link">#</a>
 
-<h3>Header</h3>
-<a href="" target="_blank" class="link"></a>
+//<h3>Header</h3>
+#<a href="" target="_blank" class="link"></a>
 
 <h2> Connect with me </h2>
 
