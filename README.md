@@ -1,7 +1,10 @@
 <h1> Caleb Covington </h1>
 
-<h3>Book Store App</h3>
-<a href="https://github.com/CalebCov/BookStoreMERN" target="_blank" class="link">Book Store</a>
+<a href="https://github.com/CalebCov/BookStoreMERN" target="_blank" rel="noopener noreferrer" class="link">
+  <h3>Book Store App</h3>
+  Book Store
+</a>
+
 
 <a href="" target="_blank" class="link">#</a>
 
