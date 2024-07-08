@@ -6,7 +6,7 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
 
 <p align="left">
   <a href="https://www.linkedin.com/in/calebcovington/">
-    <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" alt="LinkedIn" style="width:24px;height:24px;">
+    <img src="[https://fontawesome.com/icons/linkedin-in?f=brands&s=solid&sz=sm&pc=%230077b5](https://fontawesome.com/icons/linkedin-in?f=brands&s=solid&sz=sm&pc=%230077b5)" alt="LinkedIn">
   </a>
 </p>
 
