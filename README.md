@@ -6,9 +6,10 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
 
 <p align="left">
   <a href="https://www.linkedin.com/in/calebcovington/">
-    <img src="[https://fontawesome.com/icons/linkedin-in?f=brands&s=solid&sz=sm&pc=%230077b5](https://fontawesome.com/icons/linkedin-in?f=brands&s=solid&sz=sm&pc=%230077b5)" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" alt="LinkedIn" style="width:24px;height:24px;">
   </a>
 </p>
+
 
 <!--
 **CalebCov/CalebCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
