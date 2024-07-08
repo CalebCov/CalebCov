@@ -1,4 +1,8 @@
-## Hi there 👋
+# 🏎️ Caleb Covington 💨
+
+**`Venturing the Cyber Frontier`**
+
+Welcome to my GitHub profile. This is a safe place that serves as my digital journal, allowing to express and document what I'm building, practicing, and learning.
 
 <!--
 **CalebCov/CalebCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
