@@ -4,10 +4,17 @@
 
 # Caleb Covington
 
-
-**`Venturing the Cyber Frontier`**
+**`Venturing the Cyber Frontier 🏎️💨`**
 
 Welcome to my GitHub profile. This is a safe place that serves as my digital journal, allowing to express and document what I'm building, practicing, and learning.
 
-[<img align="left" alt="CalebCovington | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/calebcovington/)
+<div align="center">  
+  <a href="https://www.linkedin.com/in/calebcovington/">
+    <img alt="CalebCovington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  </a>
+  
+  <a href="mailto:calebwcovington@gmail.com">
+    <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+    </a>
+</div>
 
