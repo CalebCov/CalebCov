@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>
-    <img alt="Greetings Animation" src="https://readme-typing-svg.herokuapp.com?font=&size=32&duration=4000&pause=1000&color=EBEBEB&random=true&width=435&lines=Hello!;Bonjour!;Hallo!;Hola!;Ciao!;Olá!;Привет!;Hej!;こんにちは!;안녕하세요!;مرحبا!;" />
+    <img alt="Greetings Animation" src="https://readme-typing-svg.herokuapp.com?font=&size=32&duration=4000&pause=1000&color=EBEBEB&random=false&width=435&lines=Hello!;Bonjour!;Hallo!;Hola!;Ciao!;Olá!;Привет!;Hej!;こんにちは!;안녕하세요!;مرحبا!;" />
   </h1>
 </div>
 
