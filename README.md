@@ -8,13 +8,15 @@
 
 Welcome to my GitHub profile. This is a safe place that serves as my digital journal, allowing to express and document what I'm building, practicing, and learning.
 
-<div align="center">  
-  <a href="https://www.linkedin.com/in/calebcovington/">
-    <img alt="CalebCovington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<div align="center">
+  <a [href="https://www.linkedin.com/in/calebcovington](https://www.linkedin.com/in/calebcovington/)">
+    <img alt="CalebCovington | LinkedIn" width="30px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:caleb@gmail.com">
+    <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
   </a>
-
-  <a href="mailto:calebwcovington@gmail.com">
-    <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
-    </a>
 </div>
+
+
+
 
