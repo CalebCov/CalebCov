@@ -1,4 +1,9 @@
-# 🏎️ Caleb Covington 💨
+<h1 align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=WorkSans&size=32&center=true&vCenter=true&width=475&height=60&Duration=4000&lines=Hello!;Bonjour!;Hallo!;Hola!;Ciao!;Olá!;Привет!;Hej!;こんにちは!;안녕하세요!;" />
+</h1>
+
+# Caleb Covington
+
 
 **`Venturing the Cyber Frontier`**
 
