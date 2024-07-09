@@ -19,7 +19,7 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
 
 <br/>
 
-<!--<img alt="snake eating my contributions" src="https://raw.githubusercontenrt.com/caleb-->
+<img alt="snake eating contributions" src="https://raw.githubusercontent.com/CalebCov/CalebCov/output/github-contribution-grid-snake.svg" />
 
 
 
