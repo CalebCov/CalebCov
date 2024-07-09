@@ -17,6 +17,10 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
   </a>
 </div>
 
+<br/>
+
+<!--<img alt="snake eating my contributions" src="https://raw.githubusercontenrt.com/caleb-->
+
 
 
 
