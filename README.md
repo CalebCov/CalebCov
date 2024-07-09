@@ -6,7 +6,13 @@
 
 **`Venturing the Cyber Frontier 🏎️💨`**
 
+<br/>
+
 Welcome to my GitHub profile. This is a safe place that serves as my digital journal, allowing to express and document what I'm building, practicing, and learning.
+
+<br/>
+
+<p align="center"><i>Connect with me!</i> ⬇️</p>
 
 <div align="center">
   <a [href="https://www.linkedin.com/in/calebcovington](https://www.linkedin.com/in/calebcovington/)">
@@ -16,9 +22,11 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
     <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
   </a>
 </div>
-
 <br/>
-
+<br/>
+<br/>
+<hr/>
+<p align="center">My contributions 🌱</p2>
 <img alt="snake eating contributions" src="https://raw.githubusercontent.com/CalebCov/CalebCov/output/github-contribution-grid-snake.svg" />
 
 
