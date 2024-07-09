@@ -10,9 +10,9 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/calebcovington/">
-    <img alt="CalebCovington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+    <img alt="CalebCovington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  
+
   <a href="mailto:calebwcovington@gmail.com">
     <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
     </a>
