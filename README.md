@@ -18,8 +18,9 @@ Welcome to my GitHub profile. This is a safe place that serves as my digital jou
 <p align="center"><i>Connect with me!</i> ⬇️</p>
 
 <div align="center">
-  <a [href="https://www.linkedin.com/in/calebcovington](https://www.linkedin.com/in/calebcovington/)">
-    <img alt="CalebCovington | LinkedIn" width="30px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/calebcovington/">
+    <img alt="Caleb Covington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:caleb@gmail.com">
     <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
