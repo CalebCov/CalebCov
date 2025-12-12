@@ -1,38 +1,41 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>
-    <img alt="Greetings Animation" src="https://readme-typing-svg.herokuapp.com?font=&size=32&duration=4000&pause=1000&color=EBEBEB&random=false&width=435&lines=Hello!;Bonjour!;Hallo!;Hola!;Ciao!;Olá!;Привет!;Hej!;こんにちは!;안녕하세요!;مرحبا!;" />
+    <img alt="Greetings Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hello!+%F0%9F%91%8B;Bonjour!;Hallo!;Hola!;Ciao!;Ol%C3%A1!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;Hej!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7!" />
   </h1>
 </div>
 
-
 # Caleb Covington
 
-**`Venturing the Cyber Frontier 🏎️💨`**
+*Venturing the Cyber Frontier 🏎️💨*
 
-<br/>
+Welcome to my GitHub profile. This space serves as my digital journal, documenting what I'm building, practicing, and learning in software development and cybersecurity.
 
-Welcome to my GitHub profile. This is a safe place that serves as my digital journal, allowing to express and document what I'm building, practicing, and learning.
+---
 
-<br/>
-
-<p align="center"><i>Connect with me!</i> ⬇️</p>
+## Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/calebcovington/">
-    <img alt="Caleb Covington | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:caleb@gmail.com">
-    <img alt="CalebCovington | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <a href="mailto:your-email@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<br/>
-<br/>
-<br/>
-<hr/>
-<p align="center">My contributions 🌱</p2>
-<img alt="snake eating contributions" src="https://raw.githubusercontent.com/CalebCov/CalebCov/output/github-contribution-grid-snake.svg" />
 
+---
 
+## GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalebCov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebCov&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
+---
+
+## Contributions
+
+<div align="center">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/CalebCov/CalebCov/output/github-contribution-grid-snake.svg" />
+</div>
